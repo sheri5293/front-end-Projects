@@ -1,0 +1,156 @@
+#navbar-brand {
+  color: black;
+  font-size: 3rem;
+}
+
+#navbar-brand {
+  color: black;
+}
+
+#mainNavbar .nav-link:hover {
+  color: blue;
+}
+
+#mainNavbar .nav-link {
+  color: black;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+}
+#mainNavbar {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#changelog h3 {
+  color: red;
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+#changelog p {
+  color: black;
+  font-size: 1.5rem;
+}
+#distribute h5 {
+  color: red;
+  font-size: 1.5rem;
+}
+#distribute p {
+  color: black;
+  font-size: 1.5rem;
+}
+
+#temp h5 {
+  color: red;
+  font-size: 1.5rem;
+}
+
+#temp p {
+  color: black;
+  font-size: 1.5rem;
+}
+.navbar.scrolled {
+  background-color: rgba(222, 192, 222);
+  transition: background 500ms;
+}
+
+#clap:hover {
+  animation: shake 0.6s infinite;
+}
+@keyframes shake {
+  0% {
+    transform: translate(0px, 0px) rotate(0deg);
+  }
+  25% {
+    transform: translate(1px, 1px) rotate(1deg);
+  }
+  50% {
+    transform: translate(-1px, -1px) rotate(-1deg);
+  }
+  75% {
+    transform: translate(2px, -1px) rotate(2deg);
+  }
+  100% {
+    transform: translate(-1px, 1px) rotate(-1deg);
+  }
+}
+#oppp {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+#pad {
+  padding: 10%;
+}
+#line {
+  line-height: 10px;
+}
+footer {
+  background-color: black;
+}
+
+.deol {
+  color: white;
+}
+
+#sunny {
+  color: white;
+}
+
+#dharm {
+  color: white;
+}
+#lol {
+  color: white;
+}
+
+.go-top:hover {
+  color: #333;
+}
+#shadow {
+  text-shadow: 2px 2px red, 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+h3 {
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+#polaroid {
+  width: 400px;
+  box-shadow: 0 4px 8px 0 rgba(143, 157, 218, 0.2),
+    0 6px 20px 0 rgba(140, 167, 209, 0.19), 0 4px 8px 0 rgba(121, 128, 226, 0.2),
+    0 6px 20px 0 rgba(86, 145, 233, 0.19), 0 4px 8px 0 rgba(103, 105, 185, 0.2),
+    0 6px 20px 0 rgba(113, 99, 177, 0.19);
+}
+#sh {
+  color: black;
+  text-shadow: 2px 2px 4px #000000;
+}
+#abc {
+  padding-top: 10%;
+}
+#abcd {
+  padding-top: 5%;
+  padding-left: 3%;
+}
+#abcde {
+  padding-left: 20%;
+}
+#sha {
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+#shad {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+#shado {
+  color: brown;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+video {
+  max-width: 100%;
+  height: auto;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}

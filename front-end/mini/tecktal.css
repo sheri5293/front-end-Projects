@@ -1,0 +1,205 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.nav-section nav {
+  background-color: #5aa6c8;
+}
+
+.navtop a:hover {
+  border-bottom: white 2px solid;
+}
+.aop{
+  width: 50%;
+}
+
+.site-heading {
+  padding-left: 100px;
+  position: absolute;
+  top: 200px;
+}
+
+.font-w {
+  font-weight: bold;
+}
+#volv{
+  padding-left: 100px;
+  position: absolute;
+  top: 200px;
+}
+
+.site-banner {
+  background-image: url(image/07.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+}
+
+.virtual-traning {
+  background-image: url(image/08.jpg);
+  
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.mobile-learn {
+  background-image: url(image/015.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.phone-learn {
+  width: 30%;
+  position: absolute;
+  top: 30%;
+  
+}
+
+.content-mobile {
+  padding-top: 37%;
+}
+
+.certificate-authenticity {
+  width: 800px;
+  border-radius: 30px;
+  margin: 0 auto;
+  margin-top: -60px;
+}
+
+.verify-btn {
+  border-radius: 15px;
+  background-color: #59a5c7;
+  color: white;
+}
+
+.testimonial {
+  border-radius: 30px;
+}
+
+.btn.verify-btn {
+  border-radius: 15px;
+}
+
+.h3 {
+  font-size: 59px;
+}
+
+.content-mobile-p {
+  max-width: 70%;
+}
+
+.content-virtual-p {
+  max-width: 66%;
+}
+
+.mediaa-info {
+  background-color: #59a5c7;
+}
+
+.p6 {
+  font-size: 15px;
+}
+
+
+/* for tab  */
+
+/*@media (max-width: 1100px) {
+  .certificate-authenticity {
+      width: 700px;
+  }
+  .client-info {
+      margin-left: -51px;
+  }
+  .content-mobile-p {
+      font-size: 10px;
+  }
+  .site-banner {
+      height: 47vh;
+  }
+  .virtual-traning {
+      height: 40vh;
+  }
+  .mobile-learn {
+      height: 40vh;
+  }
+  .phone-learn {
+      width: 80%;
+      position: absolute;
+  }
+  .content-mobile {
+      padding-bottom: 10px;
+  }
+}
+*/
+
+/* for phone  */
+
+/*@media (max-width: 767px) {
+  .certificate-authenticity {
+      width: 280px;
+  }
+F  .certificate-authenticity h2 {
+      font-size: 15px;
+  }
+  .navbar-toggler {
+      margin-left: 335px;
+      margin-top: -45px;
+  }
+  .btn-verify {
+      padding-top: 5px;
+      margin-left: 14px;
+  }
+  .art-baner {
+      margin-left: 50px;
+  }
+  .site-banner {
+      height: 80vh;
+  }
+  .site-heading {
+      padding-left: 40px;
+      padding-top: 20px;
+  }
+  .virtual-traning {
+      height: 90vh;
+  }
+  .mobile-learn {
+      height: 100vh;
+  }
+  .phone-learn {
+      margin-top: -10px;
+      margin-left: 100px;
+  }
+  .phone-learn {
+      width: 40%;
+      position: absolute;
+  }
+  .vertual {
+      padding-left: 50px;
+  }
+  .content {
+      text-align: center;
+      padding-top: 50px;
+  }
+  .content-virtual-p {
+      padding-left: 60px;
+      text-align: left;
+  }
+  .btn-vr-ap {
+      padding-left: 40px;
+  }
+  .content-mobile {
+      padding-left: 70px;
+  }
+  .content-mobile-p {
+      text-align: left;
+  }
+  .foter-img {
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+}
+*/

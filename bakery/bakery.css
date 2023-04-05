@@ -1,0 +1,124 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+
+.site-banner{  
+    background-image: url(images/bakery-shop-25645389.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 60vh;
+  }
+
+  .font-w {
+    font-weight: bold;
+    color: white;
+  }
+  .site-heading {
+    padding-left: 100px;
+    position: absolute;
+    top: 170px;
+    left: 150px;
+  }
+
+  .aob{
+    height: 100px;
+    width: 200px; 
+   
+    
+}
+.bs-example {
+    margin: 20px;
+}
+.change{
+    color: black;
+}
+.navbar-light{
+    max-height: fit-content;
+  }
+
+
+
+  #polaroid {
+    width: 400px;
+    box-shadow: 0 4px 8px 0 rgba(73, 97, 204, 0.2),
+      0 6px 20px 0 rgba(80, 111, 160, 0.19), 0 4px 8px 0 rgba(48, 52, 116, 0.2),
+      0 6px 20px 0 rgba(16, 54, 110, 0.19), 0 4px 8px 0 rgba(33, 34, 97, 0.2),
+      0 6px 20px 0 rgba(47, 33, 109, 0.19);
+  }
+  .wed{
+      font-size: 50px;
+
+  }
+  .wed2{
+      font-size: 50px;
+      color: rgb(89, 177, 212);
+  }
+
+  .dsf{
+    font-weight: 1.75rem;
+    font-size: 20px;
+  }
+  
+  
+  
+  .thj{
+    font-weight: 1.6rem;
+  }
+  
+  .eq{
+     font-size: 40px; 
+     color: black;
+  }
+
+
+  .qwe{
+    width: 150%;
+    height: 120%;
+    border-style: solid;
+    border-color:lightslategrey;
+  }
+
+
+  .relo{
+   
+    border-style: solid;
+  
+  }
+  
+  .fcr{
+    width: 200%;
+  }
+  
+  .qwr{
+    width: 90%;
+    height: 100%;
+    border-style: solid;
+    border-color:rgb(82, 74, 74);
+    
+  }
+  .bt1{
+    width: 90%;
+    height: 70%;
+  }
+
+
+
+  footer {
+    background-color: black;
+  }
+
+
+  #dharm {
+    color: white;
+  }
+  .deol {
+    color: white;
+  }
+  #lol {
+    color: white;
+  }
+  #sunny {
+    color: white;
+  }  

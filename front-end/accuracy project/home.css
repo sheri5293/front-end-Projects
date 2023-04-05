@@ -1,0 +1,22 @@
+li {
+  color: green;
+}
+h3 {
+  background-color: red;
+  color: peru;
+}
+h1 {
+  color: rgb(0, 225, 0);
+}
+body {
+  background: url(https://png.pngtree.com/png-clipart/20190516/original/pngtree-wood-texture-background-color-png-image_3626802.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h4 {
+  color: orange;
+  padding-left: 0mm;
+  margin-bottom: 5;
+  font-family: sans-serif;
+}

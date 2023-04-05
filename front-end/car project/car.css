@@ -1,0 +1,135 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+ 
+.aop{
+height: 10%;
+width: 10%;
+}
+.risk{
+    display: inline-block;
+    width: 70px;
+    line-height: auto;
+    display: inline-flex;
+    
+}
+
+.site-banner{  
+    background-image: url(images/download.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+  }
+
+  .font-w {
+    font-weight: bold;
+    color: blue;
+  }
+  .ptop{
+    font-weight: bold;
+  }
+  .site-heading {
+    padding-left: 200px;
+    position: absolute;
+    top: 500px;
+  }
+  
+
+.certificate-authenticity {
+    width: 70%;
+    border-radius: 30px;
+    margin: 0 auto;
+    margin-top: -60px;
+    height: 300px;
+  }
+
+  .check{
+      font-size: 1.2em;
+      color: rgb(127, 127, 224);
+      
+  }
+  select {
+    font: inherit;
+
+}
+
+.relo{
+   
+
+  border-top: none;
+  border-right:none;
+  border-left:none;
+
+}
+
+.bt1{
+  height: 50%;
+    width: 30%;
+}
+.bt2{
+  height: 50%;
+    width: 30%;
+}
+
+
+#polaroid {
+    width: 400px;
+    box-shadow: 0 4px 8px 0 rgba(73, 97, 204, 0.2),
+      0 6px 20px 0 rgba(80, 111, 160, 0.19), 0 4px 8px 0 rgba(48, 52, 116, 0.2),
+      0 6px 20px 0 rgba(16, 54, 110, 0.19), 0 4px 8px 0 rgba(33, 34, 97, 0.2),
+      0 6px 20px 0 rgba(47, 33, 109, 0.19);
+  }
+
+  footer {
+    background-color: blue;
+  }
+  
+  .aob{
+      height: 50px;
+      width: 100px; 
+     
+      
+  }
+  .change{
+      color: black;
+  }
+  .bs-example {
+    margin: 20px;
+}
+
+.navbar-light{
+  max-height: fit-content;
+}
+
+.form-range{
+  width: 80%;
+  height: .5rem;
+  cursor:pointer;
+  
+}
+
+.thj{
+  font-weight: 1.6rem;
+}
+
+.dsf{
+  font-weight: 1.75rem;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

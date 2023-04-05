@@ -1,0 +1,114 @@
+#navbar-brand {
+  color: black;
+  font-size: 2rem;
+}
+
+#navbar-brand {
+  color: black;
+}
+
+#mainNavbar .nav-link:hover {
+  color: blue;
+}
+
+#mainNavbar .nav-link {
+  color: black;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+}
+#mainNavbar {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#changelog h3 {
+  color: red;
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+#changelog p {
+  color: black;
+  font-size: 1.5rem;
+}
+#distribute h5 {
+  color: red;
+  font-size: 1.5rem;
+}
+#distribute p {
+  color: black;
+  font-size: 1.5rem;
+}
+
+#temp h5 {
+  color: red;
+  font-size: 1.5rem;
+}
+
+#temp p {
+  color: black;
+  font-size: 1.5rem;
+}
+.navbar.scrolled {
+  background-color: rgba(222, 192, 222);
+  transition: background 500ms;
+}
+
+#clap:hover {
+  animation: shake 0.6s infinite;
+}
+@keyframes shake {
+  0% {
+    transform: translate(0px, 0px) rotate(0deg);
+  }
+  25% {
+    transform: translate(1px, 1px) rotate(1deg);
+  }
+  50% {
+    transform: translate(-1px, -1px) rotate(-1deg);
+  }
+  75% {
+    transform: translate(2px, -1px) rotate(2deg);
+  }
+  100% {
+    transform: translate(-1px, 1px) rotate(-1deg);
+  }
+}
+#oppp {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+#pad {
+  padding: 10%;
+}
+#line {
+  line-height: 10px;
+}
+footer {
+  background-color: black;
+}
+
+.deol {
+  color: white;
+}
+
+#sunny {
+  color: white;
+}
+
+#dharm {
+  color: white;
+}
+#lol {
+  color: white;
+}
+
+.go-top:hover {
+  color: #333;
+}
+
+.attract {
+  background-color: blueviolet;
+}

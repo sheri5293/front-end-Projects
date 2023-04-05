@@ -1,0 +1,7 @@
+#polaroid {
+    width: 400px;
+    box-shadow: 0 4px 8px 0 rgba(73, 97, 204, 0.2),
+      0 6px 20px 0 rgba(80, 111, 160, 0.19), 0 4px 8px 0 rgba(48, 52, 116, 0.2),
+      0 6px 20px 0 rgba(16, 54, 110, 0.19), 0 4px 8px 0 rgba(33, 34, 97, 0.2),
+      0 6px 20px 0 rgba(47, 33, 109, 0.19);
+  }

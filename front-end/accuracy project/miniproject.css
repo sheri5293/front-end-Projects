@@ -1,0 +1,12 @@
+.jumbotron {
+  background-image: url(images/dog.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  color: whitesmoke;
+}
+p {
+  color: whitesmoke;
+}

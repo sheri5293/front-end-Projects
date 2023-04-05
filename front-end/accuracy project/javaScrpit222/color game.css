@@ -1,0 +1,38 @@
+body {
+  background-color: #232323;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.square {
+  background: purple;
+  width: 30%;
+  padding-bottom: 30%;
+  float: left;
+  margin: 1.66%;
+}
+#container {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: normal;
+  background-color: steelblue;
+  color: white;
+  margin: 0;
+  text-transform: uppercase;
+  line-height: 1.1;
+  padding: 20px o;
+}
+
+#stripe {
+  background: white;
+  height: 30px;
+  text-align: center;
+}
+
+.selected {
+  background-color: blue;
+}
